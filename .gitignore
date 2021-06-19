@@ -1,3 +1,8 @@
-# .o, .so Files
+# Object Files
 *.o
+
+#Header Files
+*.h
+
+#Dynamic Libraries
 *.so

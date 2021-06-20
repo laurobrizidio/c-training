@@ -6,3 +6,6 @@
 
 #Dynamic Libraries
 *.so
+
+#Folders
+./vscode/
